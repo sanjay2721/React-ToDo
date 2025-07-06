@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+  font-family: sans-serif;
+}
+body{
+    --tw-bg-opacity: 1;
+    background-color: rgb(197, 252, 189)
+}
